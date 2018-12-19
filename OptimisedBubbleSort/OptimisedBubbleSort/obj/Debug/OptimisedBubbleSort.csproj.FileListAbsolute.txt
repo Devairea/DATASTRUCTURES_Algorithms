@@ -1,0 +1,6 @@
+H:\Year 2\Block 1\Data Structures\Algorithms\OptimisedBubbleSort\OptimisedBubbleSort\bin\Debug\OptimisedBubbleSort.exe.config
+H:\Year 2\Block 1\Data Structures\Algorithms\OptimisedBubbleSort\OptimisedBubbleSort\bin\Debug\OptimisedBubbleSort.exe
+H:\Year 2\Block 1\Data Structures\Algorithms\OptimisedBubbleSort\OptimisedBubbleSort\bin\Debug\OptimisedBubbleSort.pdb
+H:\Year 2\Block 1\Data Structures\Algorithms\OptimisedBubbleSort\OptimisedBubbleSort\obj\Debug\OptimisedBubbleSort.csprojResolveAssemblyReference.cache
+H:\Year 2\Block 1\Data Structures\Algorithms\OptimisedBubbleSort\OptimisedBubbleSort\obj\Debug\OptimisedBubbleSort.exe
+H:\Year 2\Block 1\Data Structures\Algorithms\OptimisedBubbleSort\OptimisedBubbleSort\obj\Debug\OptimisedBubbleSort.pdb
